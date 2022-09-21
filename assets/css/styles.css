@@ -117,7 +117,7 @@ section { padding: 120px 0; }
     min-height: 100px;
 }
 
-.nav-link { color: darkred; }
+.nav-link { color: deeppink; }
 .nav-link:hover { color: aqua; }
 
 .navbar-toggler { font-size: 40px; }
