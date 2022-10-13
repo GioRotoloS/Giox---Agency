@@ -117,7 +117,7 @@ section { padding: 120px 0; }
     min-height: 100px;
 }
 
-.nav-link { color: deeppink; }
+.nav-link { color: darkred; }
 .nav-link:hover { color: aqua; }
 
 .navbar-toggler { font-size: 40px; }
@@ -171,6 +171,7 @@ section { padding: 120px 0; }
 
 .portfolio-details h2 {
     margin-bottom: 0px;
+    
 }
 
 .portfolio-details a h2, .portfolio-details a p {
